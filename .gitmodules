@@ -1,0 +1,6 @@
+[submodule "ExampleProject/externals/socket"]
+	path = ExampleProject/externals/socket
+	url = https://github.com/tom360v/socket
+[submodule "ExampleProject/externals/mqtt_c"]
+	path = ExampleProject/externals/mqtt_c
+	url = https://github.com/tom360v/mqtt_c
